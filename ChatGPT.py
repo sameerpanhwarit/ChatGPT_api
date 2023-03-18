@@ -5,7 +5,7 @@ from time import sleep
 import os
 import sys
 
-openai.api_key = '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'
+openai.api_key = 'your_api key here'
 logo = "----------ChatGPT Python----------"
 def main():
     os.system('cls')
